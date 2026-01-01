@@ -1,7 +1,8 @@
 # Template
 For Educational Purpose
 # GitHub Project Documentation: Comprehensive Walkthrough & Templates
-## This guide is designed to help you **consistently document data analytics, business analysis, and data science projects on GitHub** in a professional, recruiter- and collaborator-friendly way. 
+This guide is designed to help you **consistently document data analytics, business analysis, and data science projects on GitHub** in a professional, recruiter- and collaborator-friendly way. 
+
 ---
 ## Why Proper GitHub Documentation Matters
 Well-documented GitHub projects help you:
@@ -65,25 +66,6 @@ Your README should tell a **clear story** of the project.
 ---
 
 
-##  Methodology Documentation Template (docs/methodology.md)
-
-```markdown
-# Methodology
-
-## Data Cleaning
-- Handling missing values
-- Outlier treatment
-- Data type conversions
-
-## Analysis Techniques
-- KPIs calculated
-- Statistical methods
-- Segmentation logic
-
-## Validation
-- Cross-checks
-- Business logic validation
-```
 
 ---
 
