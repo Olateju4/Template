@@ -135,15 +135,6 @@ Use clear, meaningful commits:
 
 ---
 
-If you want, I can next:
-
-* Convert this into a **GitHub-ready starter repo**
-* Tailor the templates specifically for **Power BI-only projects**
-* Create a **student-friendly version** for your cohorts
-* Help you document one of your existing projects step-by-step
-
----
-
 # GitHub Template Repository (Ready-to-Clone)
 
 Below is a **fully prepared GitHub template repository** you can copy directly into a new repo and mark as **"Use this template"** on GitHub.
@@ -359,82 +350,9 @@ This dashboard supports data-driven decision-making by summarizing key metrics a
 ## Screenshot
 (Add screenshots here)
 ```
-
----
-
-## 8. Docs Templates
-
-### docs/data_dictionary.md
-
-```markdown
-# Data Dictionary
-
-| Column Name | Description | Data Type | Example |
-|------------|-------------|-----------|---------|
-```
-
-### docs/methodology.md
-
-```markdown
-# Methodology
-
-## Data Cleaning
-- Missing value handling
-- Data type corrections
-
-## Analysis Approach
-- KPIs calculated
-- Segmentation logic
-
-## Validation
-- Business rule checks
-```
-
-### docs/assumptions.md
-
-```markdown
-# Assumptions & Constraints
-
-## Assumptions
-- Assumption 1
-- Assumption 2
-
-## Constraints
-- Data availability
-- Time limitations
-```
-
----
-
-## 9. CONTRIBUTING.md
-
-```markdown
-# Contributing Guidelines
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit changes with clear messages
-4. Submit a pull request
-```
-
----
-
-## 10. How to Publish This as a GitHub Template
-
-1. Create a new GitHub repository
-2. Paste these files and folders
-3. Go to **Settings → Template Repository**
-4. Enable **Use this template**
-
-Anyone can now clone clean project structures instantly.
-
 ---
 
 This template is suitable for:
 
 * Personal portfolios
 * Teaching repositories
-* Amdari project workspaces
-* Analytics assessments
-
----
